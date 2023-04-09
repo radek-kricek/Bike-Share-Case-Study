@@ -256,7 +256,7 @@ ggplot(plot_table, aes(x=1,y=share,fill=direction)) +
 
 ## Delivering Business Task
 
-A presentation is attached, containing all charts relevant for the research question. TOP 3 recommendations and proposed next steps are included. The main findings are:
+A [presentation](https://github.com/radek-kricek/Bike-Share-Case-Study/blob/main/presentation_brief.pdf) is attached, containing all charts relevant for the research question. TOP 3 recommendations and proposed next steps are included. The main findings are:
   - Some casual riders use bikes for shorter trips like members, likely for commuting.
   - Many casual riders use bikes for leisure activities.
   - Many casual riders prefer electric bikes.
