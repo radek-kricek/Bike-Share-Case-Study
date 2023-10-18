@@ -77,7 +77,7 @@ ends <- all_trips %>%
   arrange(-n_names_end)
 ends <- ends[ends$n_names_end == 1 & ends$station_id != '', ]
 
-stations <- merge(starts, ends, by = 'station_id', all=TRUE)  # outer join start and end stations podle station ID
+stations <- merge(starts, ends, by = 'station_id', all=TRUE)  # outer join start and end stations according to station ID
 stations$comparison <- ifelse(stations$start_station_name == stations$end_station_name , TRUE, FALSE)  # comparison of names at the same ID
 table(stations['comparison'])   # number of trues and falses
 
