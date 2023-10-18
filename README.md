@@ -6,7 +6,7 @@ To complete the study from cleaning to the analysis and visualizations I used **
 
 ## Business Task
 
-Cyclistic is a fictional bike-share program in Chicago, US. As part of changing the marketing strategy, it was porposed to attemp to turn casual drivers (who only rent bikes for a short duration) into members (the other group of customers with annual membership). The question for the analysis was: *How do annual members and casual riders use Cyclistic bikes differently?*
+Cyclistic is a fictional bike-share program in Chicago, US. As part of changing the marketing strategy, it was proposed to attemp to turn casual drivers (who only rent bikes for a short duration) into members (the other group of customers with annual membership). The question for the analysis was: *How do annual members and casual riders use Cyclistic bikes differently?*
 
 ## Data
 
